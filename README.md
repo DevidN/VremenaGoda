@@ -33,6 +33,11 @@ int main()
 		system("cls");
 		cout << "Скоро лето";
 	}
+	else
+	{
+		system("cls");
+		cout << "Других цифр нет , не жмякай , пожалуйста";
+	}
 	 
 	
 	int _; cin >> _;
